@@ -1,0 +1,18 @@
+.bodyNotFound {
+    background-color: black !important;
+    margin: -10% 0% 0% 0%;
+    padding-top: 10%;
+    height: 100vh;   
+}
+
+.h1NotFound {
+    text-align:center;
+    color: rgba(158, 242, 22, 0.857);    
+    margin: 10% 0% 0% 0%;
+}
+
+.h2NotFound {
+    text-align:center;
+    color: rgba(51, 184, 7, 0.857);    
+    margin: 10% 0% 0% 0%;
+}

@@ -1,0 +1,44 @@
+.bodycontainer {
+  margin: -6% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  position: sticky;
+  background-color: rgb(180, 180, 180);
+  filter: brightness(1);
+}
+
+.Cotizar {
+  background-color: black;
+  color: white;
+  border-color: black;
+  height: 4rem;
+  width: 100%;
+  margin: 0% 0% 0% 0%;
+}
+
+.imagenbanner {
+  /* background-size: cover; */
+  width: 100vw;
+  height: 100vh;
+}
+.frase {
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+.ServiciosName {
+  size: 100%;
+  background-color: white;
+  color: black;
+  text-align: left;
+}
+.cardbody {
+  border-style: solid;
+  width: 18rem;
+}
+.cardbodybody {
+  background-color: black;
+  color: white;
+}
+body {
+  line-height: 1;
+}

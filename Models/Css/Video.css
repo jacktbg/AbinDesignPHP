@@ -1,0 +1,44 @@
+.bodycontainer {
+  margin: -6% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  position: sticky;
+}
+
+.imagenbanner {
+  /* background-size: cover; */
+  width: 100vw;
+  height: 100vh;
+}
+
+.buttonvideo {
+  background-color: black;
+  text-align: center;
+}
+
+.btn.btn-outline-success {
+  height: 4rem;
+  width: 100%;
+}
+
+.frase {
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+.ServiciosName {
+  size: 100%;
+  background-color: white;
+  color: black;
+  text-align: left;
+}
+.cardbody {
+  border-style: solid;
+  width: 18rem;
+}
+.cardbodybody {
+  background-color: black;
+  color: white;
+}
+body {
+  line-height: 1;
+}

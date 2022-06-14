@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container-footer {
+    background-color: #000000;
+    padding:0px !important;
+    padding-bottom: 0px !important;
+    margin: 0px !important;
+    margin-bottom: 0px !important;
+  }
+.footer-footer {
+    background-color: #000000;
+    padding:0px !important;
+    padding-bottom: 0px !important;
+    margin: 0px !important;
+    margin-bottom: 0px !important;
+}
+.nav-link.px-2.footer {
+  color: #ffffff;
+  }
+.text-center.footer {
+  color: #ffffff;
+  }
+.image-footer{
+  height: 100%;
+  width: 20%;
+}
